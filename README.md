@@ -4,6 +4,9 @@ This dataset, sourced from data.gov and updated on May 14, 2024, includes counts
 
 <img width="578" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/0c7ef63f-d73f-4188-b19e-b78a24a30007">
 
+Counties with highest number of diseases
+
+<img width="577" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/a306fd1e-021f-4e0e-a4f8-7571aa404605">
 
 # References
 1. California Code of Regulations, Title 17, Sections 2500 and 2505 https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/ReportableDiseases.pdf
