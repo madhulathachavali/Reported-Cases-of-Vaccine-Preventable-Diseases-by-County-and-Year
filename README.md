@@ -147,6 +147,19 @@ Summary of Disease Trends in Alameda County (2001-2022)
 
 <img width="942" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/60036cf2-f6bf-472d-9754-2a94228ade1a">
 
+#### Conclusion
+
+#### Effectively Controlled Diseases:
+
+1. Diphtheria and Rubella: Almost no cases were reported, indicating successful vaccination and control measures.
+2. Invasive Meningococcal Disease: Significant decrease across all counties, demonstrating effective public health interventions.
+3. Measles: General decline in cases following peaks around 2014-2015, suggesting successful containment measures.
+
+#### Areas Requiring Enhanced Interventions:
+
+1. Hepatitis B, Chronic: Increasing cases in most counties, indicating a need for improved prevention and treatment strategies.
+2. Pertussis: Recurring peaks suggest periodic outbreaks, necessitating targeted interventions.
+3. Varicella Hospitalizations: There is a rising concern in Santa Clara, which may require additional focus and resources.
 
 # References
 1. California Code of Regulations, Title 17, Sections 2500 and 2505 https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/ReportableDiseases.pdf
