@@ -10,3 +10,24 @@ PROC IMPORT DATAFILE="&filepath"
     GETNAMES=YES; /* Assumes the first row contains variable names */
 RUN;
 *************************************************************;
+
+/* Create a dataset with the top 5 diseases and their counts */
+data diseases;
+    input Disease $ 1-32 Count;
+    datalines;
+Pertussis                          114438
+Hepatitis B, Chronic                8924
+Hepatitis A                         6070
+Invasive Meningococcal Disease      5437
+Hepatitis B, Acute                  2698
+;
+run;
+
+/* Generate the bar chart */
+proc sgplot data=diseases;
+    vbar Disease / response=Count fillattrs=(color=skyblue);
+    title 'Top 5 Diseases by Total Count';
+    xaxis label='Disease';
+    yaxis label='Total Count';
+run;
+*************************************************************;
