@@ -44,7 +44,7 @@ Summary of Disease Trends in Los Angeles County (2001-2022)
 5. Mumps: Fluctuating cases with a notable peak around 2016-2017.
 6. Varicella Hospitalizations: Fluctuating trend with a peak around 2012-2013 and 2016-2018.
 
-<img width="945" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/7aaaf33b-e335-48ab-82c0-a9f488644467">
+<img width="996" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/f68206b5-05ef-4346-9d67-e0cbff091c35">
 
 #### San Diego
 Summary of Disease Trends in San Diego County (2001-2022)
@@ -52,6 +52,7 @@ Summary of Disease Trends in San Diego County (2001-2022)
 #### Increasing Diseases:
 1. Hepatitis B, Chronic: Exhibits a steady increase in cases over the years.
 2. Hepatitis C, Acute: Shows significant fluctuations with noticeable peaks around 2017 and 2019-2020.
+   
 #### Decreasing Diseases:
 1. Invasive Meningococcal Disease: Shows a clear declining trend over the years, with some fluctuations.
 2. Varicella Hospitalizations: Significant decrease after 2010, with minimal cases in recent years.
@@ -67,7 +68,84 @@ Summary of Disease Trends in San Diego County (2001-2022)
 8. Hepatitis A: A significant peak around 2017-2018, but generally low in other years.
 9. Hepatitis B, Acute: Shows fluctuations over the years with no clear increasing or decreasing trend.
 
-<img width="943" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/997d8abc-67e6-4863-a4c7-5895a56f17d6">
+<img width="943" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/6b358671-4fb7-49c8-9605-bda353f4cefb">
+
+
+#### Orange County
+Summary of Disease Trends in Orange County (2001-2022)
+
+#### Increasing Diseases:
+1. Hepatitis B, Chronic: Exhibits a steady increase in cases over the years.
+   
+#### Decreasing Diseases:
+1. Invasive Meningococcal Disease: Shows a clear declining trend over the years, with some fluctuations.
+2. Varicella Hospitalization/Death: Significant decrease over the years, with minimal cases in recent years.
+   
+#### No Significant Change:
+1. Diphtheria: No reported cases throughout the years.
+2. Rubella: Very few cases, generally low, with some fluctuations.
+3. Tetanus: Very few cases, generally low, with minor fluctuations.
+4. Mumps: Fluctuating cases with noticeable peaks around 2016 and 2018.
+5. Measles: Fluctuating cases with a noticeable peak around 2014, but generally low in recent years.
+6. Pertussis: Multiple peaks around 2010, 2014, and 2018, with fluctuations.
+7. Hepatitis A: Fluctuating trend with a significant peak around 2017-2018.
+8. Hepatitis B, Acute: Shows fluctuations over the years with no clear increasing or decreasing trend.
+9. Hepatitis C, Acute: Demonstrates significant fluctuations with peaks around 2014 and 2017-2018.
+10. Varicella Hospitalizations: Fluctuating trend with peaks around 2010-2013 and 2016-2018.
+
+<img width="933" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/50460448-c639-419a-bc21-e8eb27f2f968">
+
+
+#### Santa Clara 
+
+Summary of Disease Trends in Santa Clara County (2001-2022)
+
+#### Increasing Diseases:
+1. Varicella Hospitalizations: Shows an increasing trend with noticeable peaks around 2015-2017.
+
+#### Decreasing Diseases:
+1. Invasive Meningococcal Disease: Shows a clear declining trend over the years, with some fluctuations.
+2. Hepatitis B, Chronic: Exhibits a steady decline in cases over the years.
+3. Hepatitis B, Acute: Shows a decreasing trend with fluctuations, particularly after 2016.
+   
+#### No Significant Change:
+1. Diphtheria: No reported cases throughout the years.
+2. Rubella: Very few cases, with a noticeable peak around 2014, but generally low in other years.
+3. Tetanus: Very few cases, generally low, with minor fluctuations.
+4. Mumps: Fluctuating cases with noticeable peaks around 2015 and 2019.
+5. Measles: Fluctuating cases with a noticeable peak around 2014, but generally low in recent years.
+6. Pertussis: Multiple peaks, with significant fluctuations but no clear increasing or decreasing trend.
+7. Hepatitis A: Fluctuating trend with peaks around 2015 and 2017, but generally low.
+8. Hepatitis C, Acute: Fluctuations with noticeable peaks, but generally low.
+9. Varicella Hospitalization/Death: Generally low cases with fluctuations.
+
+<img width="934" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/85d04a8e-89bf-417c-b938-9c95da3098bf">
+
+
+#### Alameda
+
+Summary of Disease Trends in Alameda County (2001-2022)
+
+#### Increasing Diseases:
+1. Hepatitis B, Chronic: Exhibits a steady increase in cases over the years.
+2. Diphtheria: Shows a noticeable increase in the most recent year.
+
+#### Decreasing Diseases:
+1. Invasive Meningococcal Disease: Shows a clear declining trend over the years, with some fluctuations.
+2. Measles: Noticeable peak around 2014, with a general decrease in recent years.
+
+#### No Significant Change:
+1. Pertussis: Multiple peaks, with significant fluctuations but no clear increasing or decreasing trend.
+2. Tetanus: Very few cases, generally low, with minor fluctuations.
+3. Mumps: Fluctuating cases with a noticeable peak around 2011, but generally low in recent years.
+4. Rubella: Very few cases, with a noticeable peak around 2014, but generally low in other years.
+5. Varicella Hospitalizations: Fluctuating trend with peaks around 2013 and 2017, but generally low.
+6. Hepatitis A: Fluctuating trend with peaks around 2015 and 2017, but generally low.
+7. Hepatitis B, Acute: Fluctuating cases with a peak around 2016, but no clear trend.
+8. Hepatitis C, Acute: Fluctuations with noticeable peaks around 2013 and 2017, but generally low.
+9. Varicella Hospitalization/Death: Generally low cases with fluctuations.
+
+<img width="942" alt="image" src="https://github.com/madhulathachavali/Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year/assets/71414635/60036cf2-f6bf-472d-9754-2a94228ade1a">
 
 
 # References
