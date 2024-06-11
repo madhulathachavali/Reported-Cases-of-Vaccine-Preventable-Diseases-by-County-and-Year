@@ -31,3 +31,26 @@ proc sgplot data=diseases;
     yaxis label='Total Count';
 run;
 *************************************************************;
+proc sql;
+    create table county_summary as
+    select County, sum(Count) as TotalDiseases
+    from disease
+    group by County;
+quit;
+
+/* Sort the summarized data in descending order of total diseases */
+proc sort data=county_summary;
+    by descending TotalDiseases;
+run;
+
+/* Select the top 10 counties with the highest number of diseases */
+data top10_counties;
+    set county_summary;
+    if _N_ <= 10;
+run;
+
+/* Print the top 10 counties */
+proc print data=top10_counties noobs;
+    title 'Top 10 Counties with the Highest Number of Diseases';
+run;
+*************************************************************;
