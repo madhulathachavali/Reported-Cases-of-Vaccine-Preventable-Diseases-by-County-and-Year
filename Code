@@ -1,0 +1,12 @@
+*************************************************************;
+/* Specify the path to your CSV file */
+%let filepath = /home/u61152431/Preventable Disease by Vaccines/izb-cases-by-county-year-2022.csv;
+
+/* Import the CSV file */
+PROC IMPORT DATAFILE="&filepath"
+    OUT=Disease
+    DBMS=CSV
+    REPLACE;
+    GETNAMES=YES; /* Assumes the first row contains variable names */
+RUN;
+*************************************************************;
