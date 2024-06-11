@@ -53,4 +53,30 @@ run;
 proc print data=top10_counties noobs;
     title 'Top 10 Counties with the Highest Number of Diseases';
 run;
+
+/* Create the dataset with the provided data, excluding California */
+data counties;
+    input County $ TotalDiseases;
+    datalines;
+Los_Ang 15420
+San_Die 11555
+Santa_C 5091
+Orange  3853
+Alameda 3290
+Fresno  2761
+Sacrame 2660
+Riversi 2578
+Contra  1888
+Sonoma  1878
+;
+run;
+
+/* Generate the bar chart for the counties */
+proc sgplot data=counties;
+    vbar County / response=TotalDiseases datalabel fillattrs=(color=skyblue);
+    title 'Top 10 Counties with the Highest Number of Diseases (Excluding California Total)';
+    xaxis label='County';
+    yaxis label='Total Diseases';
+    xaxis display=(nolabel) fitpolicy=rotate;
+run;
 *************************************************************;
