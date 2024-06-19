@@ -27,8 +27,8 @@ Let's examine the trends in each of the following counties: Los Angeles, San Die
 Summary of Disease Trends in Los Angeles County (2001-2022)
 
 #### Increasing Diseases:
-1. Pertussis: Exhibits recurring peaks around 2010, 2014, and 2018, with significant fluctuations over the years.
-2. Hepatitis B, Chronic: Displays a steady increase in cases over the years.
+1. Pertussis: Exhibits recurring peaks around 2010, 2014, and 2018, with significant fluctuations
+2. Hepatitis B, Chronic: Displays a steady increase in cases
 3. Hepatitis C, Acute: Demonstrates an increasing trend until around 2017, followed by fluctuations.
 
 #### Decreasing Diseases:
@@ -50,7 +50,7 @@ Summary of Disease Trends in Los Angeles County (2001-2022)
 Summary of Disease Trends in San Diego County (2001-2022)
 
 #### Increasing Diseases:
-1. Hepatitis B, Chronic: Exhibits a steady increase in cases over the years.
+1. Hepatitis B, Chronic: Exhibits a steady increase in cases
 2. Hepatitis C, Acute: Shows significant fluctuations with noticeable peaks around 2017 and 2019-2020.
    
 #### Decreasing Diseases:
@@ -75,7 +75,7 @@ Summary of Disease Trends in San Diego County (2001-2022)
 Summary of Disease Trends in Orange County (2001-2022)
 
 #### Increasing Diseases:
-1. Hepatitis B, Chronic: Exhibits a steady increase in cases over the years.
+1. Hepatitis B, Chronic: Exhibits a steady increase in cases.
    
 #### Decreasing Diseases:
 1. Invasive Meningococcal Disease: Shows a clear declining trend over the years, with some fluctuations.
@@ -104,8 +104,8 @@ Summary of Disease Trends in Santa Clara County (2001-2022)
 1. Varicella Hospitalizations: Shows an increasing trend with noticeable peaks around 2015-2017.
 
 #### Decreasing Diseases:
-1. Invasive Meningococcal Disease: Shows a clear declining trend over the years, with some fluctuations.
-2. Hepatitis B, Chronic: Exhibits a steady decline in cases over the years.
+1. Invasive Meningococcal Disease: Shows a declining trend, with some fluctuations.
+2. Hepatitis B, Chronic: Exhibits a steady decline in cases.
 3. Hepatitis B, Acute: Shows a decreasing trend with fluctuations, particularly after 2016.
    
 #### No Significant Change:
@@ -127,11 +127,11 @@ Summary of Disease Trends in Santa Clara County (2001-2022)
 Summary of Disease Trends in Alameda County (2001-2022)
 
 #### Increasing Diseases:
-1. Hepatitis B, Chronic: Exhibits a steady increase in cases over the years.
+1. Hepatitis B, Chronic: Exhibits a steady increase in cases.
 2. Diphtheria: Shows a noticeable increase in the most recent year.
 
 #### Decreasing Diseases:
-1. Invasive Meningococcal Disease: Shows a clear declining trend over the years, with some fluctuations.
+1. Invasive Meningococcal Disease: Shows a declining trend, with some fluctuations.
 2. Measles: Noticeable peak around 2014, with a general decrease in recent years.
 
 #### No Significant Change:
