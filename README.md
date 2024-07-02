@@ -1,4 +1,5 @@
-## Reported-Cases-of-Vaccine-Preventable-Diseases-by-County-and-Year
+## Vaccine-Preventable Diseases Trends in California 2024
+
 
 This dataset, sourced from data.gov and updated on May 14, 2024, includes counts of vaccine-preventable disease cases among California residents by county, disease, and year. It has four variables: Disease (the name of the disease), County (the name of the county), Year (the year the cases were reported), and Count (the number of reported cases). Extracted from California Confidential Morbidity Reports and Laboratory Reports, this data, maintained by the CDPH, is essential for analyzing trends in vaccine-preventable diseases across California.
 
